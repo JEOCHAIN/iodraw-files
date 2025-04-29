@@ -34,11 +34,8 @@
             <mxPoint x="285" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRQggvvdHE8gcq32OZV6-14" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="200" y="-10" as="sourcePoint" />
-            <mxPoint x="300" y="-10" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="pRQggvvdHE8gcq32OZV6-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
