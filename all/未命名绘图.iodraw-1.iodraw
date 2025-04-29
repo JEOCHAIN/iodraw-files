@@ -115,8 +115,8 @@
         <mxCell id="pRQggvvdHE8gcq32OZV6-44" value="生态分区划分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pRQggvvdHE8gcq32OZV6-45" value="基于遥感指数组合（如 NDVI高+VH低）&#xa;划分生态优势区、过渡区、退化区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="pRQggvvdHE8gcq32OZV6-45" value="基于遥感指数组合&lt;br&gt;划分生态优势区、过渡区、退化区" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="525" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
