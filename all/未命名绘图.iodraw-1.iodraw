@@ -35,7 +35,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pRQggvvdHE8gcq32OZV6-15" value="&lt;div&gt;斑点噪声滤波（Lee）&lt;/div&gt;&lt;div&gt;几何校正、辐射定标&lt;/div&gt;&lt;div&gt;后向散射系数计算&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="120" width="150" height="90" as="geometry" />
+          <mxGeometry x="220" y="120" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRQggvvdHE8gcq32OZV6-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
