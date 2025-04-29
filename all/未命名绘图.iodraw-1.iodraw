@@ -100,6 +100,9 @@
         <mxCell id="pRQggvvdHE8gcq32OZV6-39" value="样本容量n=500，10m*10m为单位，QGIS栅格计算两个平台的RMSE、MAE、R²（4月数据）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="335" width="563" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pRQggvvdHE8gcq32OZV6-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
