@@ -110,10 +110,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pRQggvvdHE8gcq32OZV6-43" value="分析 4 月与 10 月 NDVI/EVI/VV/VH 差异" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="560" height="60" as="geometry" />
+          <mxGeometry x="530" y="430" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pRQggvvdHE8gcq32OZV6-44" value="生态分区划分" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="540" width="70" height="30" as="geometry" />
+          <mxGeometry x="80" y="540" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
