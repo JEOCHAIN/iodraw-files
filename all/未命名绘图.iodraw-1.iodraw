@@ -46,9 +46,6 @@
             <mxPoint x="504.7" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pRQggvvdHE8gcq32OZV6-21" value="QGIS栅格计算器" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="pRQggvvdHE8gcq32OZV6-22" value="指数构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="60" height="30" as="geometry" />
         </mxCell>
