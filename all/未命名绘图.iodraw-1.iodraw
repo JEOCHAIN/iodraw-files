@@ -112,6 +112,9 @@
         <mxCell id="pRQggvvdHE8gcq32OZV6-43" value="分析 4 月与 10 月 NDVI/EVI/VV/VH 差异" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="560" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pRQggvvdHE8gcq32OZV6-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
